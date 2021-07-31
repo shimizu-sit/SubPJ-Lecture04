@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BDF5452F-AC79-C662-C00B-D7874EA8C618}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Point/Point Surface.shader">
+    <Files>
+      <File FileName="Assets/Point/Point Surface.shader" Line="5" Column="9" />
+      <File FileName="Assets/Scripts/Graph.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SubPJ-Lecture02" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Point" expanded="True">
+                <Node name="Point Surface.shader" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4e26e83e-e292-4c59-9e8d-b273f13d9b24" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
